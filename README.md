@@ -8,3 +8,5 @@
 
 <imag src="https://github.com/jackdover/LockView/blob/master/gif/lockview.gif" width="240" height="360" />
 
+![image](https://github.com/jackdover/LockView/blob/master/gif/lockview.gif)
+
